@@ -7,7 +7,7 @@
 # Basic Machine Learning
 
 
-<a name="dataexploration></a>
+<a name="dataexploration"></a>
 ### Basic Data Exploration
 
 To extract data and show it in a table, an example of code is as per below:
